@@ -1,2 +1,8 @@
-# QA-portfolio-
-My QA Testing Practice Work
+# QA Portfolio - Hassan Ashfaq
+
+This repository contains my QA testing practice work.
+
+## Included:
+- Bug Report (Login Issue)
+
+I am currently learning Software Testing and looking for a part-time QA Internship.
